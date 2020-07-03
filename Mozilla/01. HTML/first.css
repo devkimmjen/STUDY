@@ -1,0 +1,29 @@
+.text - content table.standard - table: not(.learn - box) {
+    border: 2px solid #fff;
+}
+
+.text - content table {
+    box - sizing: border - box;
+    width: 100 %;
+    max - width: 100 %;
+    border - collapse: collapse;
+    border: solid #e0e0dc;
+    border - width: 1px 0 0 1px;
+}
+
+table {
+    margin - bottom: 24px;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    border-spacing: 2px;
+    border-color: grey;
+}
+a, abbr, address, article, aside, audio, b, blockquote, body, canvas, caption, cite, code, dd, del, details, dfn, div, dl, dt, em, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, hr, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, p, pre, q, samp, section, small, span, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
