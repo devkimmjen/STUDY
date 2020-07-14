@@ -27,7 +27,7 @@ const userSchema = mongoose.Schema ({
     tokenExp: { //토큰 유효기간
         type: Number
     }
-});
+})
 // 모델의 이름 , 스키마
 const User = mongoose.model('User', userSchema)
 
